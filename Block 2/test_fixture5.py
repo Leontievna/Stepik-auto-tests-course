@@ -12,7 +12,6 @@ def browser():
     print("\nquit browser..")
     browser.quit()
 
-
 class TestMainPage1():
 
     # вызываем фикстуру в тесте, передав ее как параметр
